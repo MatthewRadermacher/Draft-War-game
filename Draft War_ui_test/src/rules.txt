@@ -1,0 +1,7 @@
+Draft:
+
+Hero round: 5 heroes to pick from
+
+5 Rounds with 8 units available to start, go to next round when only 2 remaining
+
+picking order is player then computer throughout the entire game
